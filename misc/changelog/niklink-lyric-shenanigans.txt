@@ -1,0 +1,488 @@
+<Nik Link 11/09/2020>
+
+I've been manually going through and transcribing lyrics throughout the HS discography, starting with Mobius Trip & Hadron Kaleido, with the intent of adding lyrics into the unofficial Homestuck collection (whether it'll be accepted into the default package or become a mod, I can't say). There are three primary sources for lyrics I'm looking at here: the album booklet, the lyrics on the album's bandcamp page, and the music wiki. However all three of these have differences, not only the stylistic aspects of lyrics transcription, which is not too important in the grand scheme of things, there are several mistakes in all three of these sources. They are not even the same mistakes most of the time. I'm listing what I believe to be mistakes in the lyrics on the wiki:
+
+DAWN OF MAN
+
+'Wondering through the sand' -> 'Wandering through the sand'
+Error present in all three sources, so I believe the mistake was copied over from the original booklet (which has a few blatant typos, so it's not surprising). Of course it could be a poetic twist on the expected word, and they do both sound very similar, but after listening to it carefully I feel confident it sounds more like 'wandering' (the word 'wondering' is used in Fly, for comparison), and it's after all the word that makes sense in that sentence.
+
+'If anyone's out there to see what I have done' -> 'If anyone's out there to see what we have done'
+Error present in the bandcamp page and the wiki. Note that this is only for the first instance of this line, the second instance does use 'I'. Clearly audible and listed in the original booklet.
+
+'This godly frame, it does not care' -> 'This goodly frame, it does not care'
+Error present only in the wiki. Clearly audible.
+
+NO RELEASE
+
+'You're not the only' -> 'You're not the only one'
+Error present in bandcamp page and wiki.
+
+FLY
+
+' 'Cause ' is used once with an apostrophe to indicate it's a contraction ('Cause) and once without (Cause). Error from both bandcamp and wiki (the booklet doesn't use the apostrophe in either instance). Personally I'd use the apostrophe both times.
+
+LIES WITH THE SEA
+
+First chorus is repeated twice, but is not repeated at all in any lyrics source.
+
+'Boens of those who walked the plank' -> 'Bones of those who walked the plank'
+Obvious typo. Present in bandcamp page and music wiki.
+
+'Crushed by pressures deep' -> 'Crushed by pressures great'
+Error present on both bandcamp and wiki, but not in the original booklet (it's hard to read because the second half of the lyrics are mirrored for some godforsaken reason).
+
+'From where we once did meet' -> 'From where we once did leave?'
+Error present on both bandcamp and wiki, but not in the original booklet (again in the mirrored section). It's pretty hard to hear, but on my first listen following along to the music wiki lyrics I thought 'wait that doesn't sound quite right'. And there it was in the booklet (question mark included).
+
+Second chorus is repeated six times, but is again not repeated at all in any lyrics source. From what I understand, as it is a fadeout, it's also appropriate to end the last line with an ellipsis '...'. It looks kinda dumb when you write the same two lines six times, but it might help people realize the chorus keeps oging after it gets quieter.
+
+CHAIN OF PROSPIT
+
+'You're swinging by the chain of prospit'
+Prospit should be capitalized. Error in the bandcamp page and the wiki.
+
+The second and third choruses are missing at the end of the lyrics in all three sources. It looks like a stylistic choice for the original booklet. In any case, here's my transcription (slightly editing details to match the style of the other sources, which is not my preference but w/e):
+
+You've got a reason to live
+Got a reason to live
+No matter what you say
+No matter what you take away
+There's always something you can give
+And buddy that's the reason
+That you've got a reason to live
+Got a reason to live
+Don't care what you've been through
+Don't care what people think of you
+There's always something you can do
+And no one knows it better than-
+
+You've got a reason to live
+Got a reason to live
+No matter what you say
+No matter what you take away
+There's always something you can give
+And buddy that's the reason
+That you've got a reason to live got a reason to live
+Don't care what you've been through
+Don't care what people think of you
+There's always something you can do
+And no one knows it better than you
+And no one knows it better than you
+And no one knows it better than you
+
+PUMPKIN TIDE
+
+'Never saw the thing you thought you saw' -> 'Never saw the thing you think you saw'
+Error in all three sources. Pretty clear if you listen to the song.
+
+'Its key is buried in your mind' -> 'Its gun is buried in your mind'
+Ok, so. This is obviously a subtle, lyrics-only joke about weapon/object duality in Problem Sleuth. If you want to be accurate at all costs, make the change. If you want someone in the future to go 'hey that's now what he said' and hopefully make the PS connection and have a little chuckle, then keep the joke.
+
+
+I know that's a lot of minutiae but I've attached the 'fixed' MT&HK lyrics for comparison. Like I said, they'll have a few tiny stylistic changes as well which you can ignore if you want. I plan on going through the rest of the discog and transcribing lyrics for everything that has vocals- a lot of the stuff on the wiki doesn't even have any lyrics. If you're interested in further corrections (or additions in cases of missing lyrics) then please let me know.
+
+
+<Quasar Nebula 11/10/2020>
+
+hello!
+
+thank you so much for your diligent work with the lyrics!! i havent quite gone through every change yet, but youll see them all on the website when the next update releases. attention to small details like this are really truly appreciated, and are what drive the wiki forward as a useful and accurate resource -- so im certainly interested in any and all further notes you take. thank you :)
+
+since this next update is pretty big and a lovely variety of people have helped put it together, ive been doing my best to credit everyone with care. normally for feedback from emails i group changes from a single contributor under the anonymous "an emailer" name -- im happy to do the same for you of course, but if you prefer, is there a particular name/contact urls you would like to be credited under?
+
+anyway, thank you again!! do feel encouraged to let me know about any other fixes and additions you have, or any other feedback obviously. thanks!
+
+(PS: for coloUrs and mayhem, folks have already pointed out that iron infidel and bronze page are missing their lyrics! those are already good to go for when the update releases. but id love to know if i missed any other songs!!)
+
+~jade (nebula/florrie)
+
+
+<Nik Link 11/10/2020>
+
+Hi, thank you so much for being receptive! I'll be sure to send you the rest as it's being done. There's actually a lot of tracks that are missing lyrics. Well, it depends. The baseline for what I'm considering 'lyrics' is just 'using non-onomatopoeic words in a song at any moment'. It results in a lot of silly things like Black's 'lyrics' being just 'Make her a member of the Midnight Crew' or mIrAcLeS' 'lyrics' being just 'Miracles (x9)', but I just want to be consistent. Plus I don't know if it'll have accessibility benefits or something. So that still excludes tracks that only feature stuff like nonverbal chanting (Tribal Ebonpyre), scatting (Greenhouse), animal noises (Chorale for Jaspers), or only exclamatory stuff likes 'wooh', 'yeah', or whatever (Knife's Edge).
+
+But even if you take away all the silly, unremarkable lyrical content, there's still some 'major' tracks missing lyrics! Like How Do I Live, or the entire Squiddles album! Squiddles actually also has a booklet with lyrics, but it's again incomplete or sometimes slightly wrong in places. I'm struggling to transcribe Squiddles right now, and think I'll need to source some second opinions from somewhere, because Squiddle voices. I'm sure I'll find more missing stuff as I comb through the discog. And maybe (hopefully not) find mistakes in existing lyrics.
+
+As for credit, just crediting 'Niklink' is fine. If you don't want to want to make a separate credit for me, that is also fine; I really don't care. And as for feedback, I'll probably collect some of that over time (already have a little), but what immediately jumps out at me is the lack of some of the fan albums like HS for the Holidays and Tomb of the Ancestors, and the Unreleased Tracks section feeling disorganized. It might be beneficial to move the Hiveswap Friendsim-only music into the Pesterquest section and organize the 'tracks featured in Homestuck'. And possibly separating track art contributors from music contributors in the artist listings.
+
+Anyways, I'll let you know when I have more stuff. Thanks again!
+
+
+<Quasar Nebula 11/13/2020>
+
+Lyrics for everything from Vol 4 through Alterniabound, except for Squiddles. Notes:
+
+GameBro: The only one with lyrics already on the wiki, but minor improvements.
+
+I Don't Wanna Miss A Thing: It's really, really, really hard to tell if he's saying 'baby' or 'babe' with a tiny 'eh' at the end. I voted for 'babe'.
+
+Gaia Queen: The words are really hard to make out. Any primary sources on those probably died with the MSPA Forums. I'm not totally sure about 'say your prayers'.
+
+Nic Cage Song: I'm certain Radiation got all the samples from this youtube video: https://www.youtube.com/watch?v=A23TuxKex_w. Everything in the song is in here, and the dates line up.
+
+Arisen Anew: The lyrics and intended translation are from Tensei himself. He didn't include Japanese text for it, and neither did I, because it seems to be pretty shoddy Japanese, and also I don't know Japanese.
+
+THE SQUIDDLES PROBLEM
+
+I have Squiddles 99% done. I'm at my wit's end for that last 1%. This includes: the Squiddle voice line at 1:37 in Squiddles in Paradise (???? Skipper Plumbthroat!), a few spots in Let the Squiddles Sleep (the Squiddles' line after 'It's not a pretty sight' and before 'Let's all go on an adventure', the Horrorterror speech at the very end '???? Tangle Buddies, Tangle Buddies, let's become Tangle Buddies), one place in Friendship Aneurysm (Let's have ???? friendship!), and... Tentacles in various places. Not very many, because some absolute hero already had the lyrics written down for it, but it needs further quality assurance and I'm not sure I can provide it.
+
+Albatross Soup already helped me with some of the other tracks, but the stuff that's left... well, Squiddle voices seem to be impervious to vocal isolation audio filters. If you know anyone that can help, please let me know.
+
+
+<Nik Link 11/13/2020>
+
+Correction. In Arisen Anew the intended translation is 'The princess of time stopped the dog', with no 'has'.
+
+
+<Quasar Nebula 11/13/2020>
+
+thanks so much for all this!! here are some notes im taking as i bring these lyrics over:
+
+LIES WITH THE SEA
+i made a few stylistic changes here! just more paragraph breaks, e.g.
+
+My heart lies with the sea
+My heart lies with the ocean
+
+My heart lies with the sea
+My heart lies with the ocean
+
+My heart lies with the sea
+My heart lies with the ocean
+...
+
+CHAIN OF PROSPIT
+fixed "it's" typo in "Back into it's place"
+
+PUMPKIN TIDE
+i replaced "key" with "[gun]" :3
+
+HOW DO I LIVE (BUNNY BACK IN THE BOX VERSION)
+decapitalized "Sun" in "There'd be no Sun in my sky"
+changed the last line to "(Oh, it's- it's done. Oh.)"
+
+GAMEBRO (ORIGINAL 1990 MIX)
+put line breaks before "(Go, go, go...)"! just a stylistic choice, since the wiki always breaks the line theyre a part of into two anyway
+
+I DON'T WANT TO/WANNA MISS A THING
+capitalized "feel" in "feel your heart so close to mine"
+
+NIC CAGE SONG
+i dont have any comments on this one i just want to thank you for it, this transcription is a masterpiece lol
+(actually there are a few stylized line breaks for the longer lines :P)
+thanks for the reference video by the way!!
+
+TROLLCOPS (RADIO PLAY)
+im going to keep the existing lyrics here, juuust cuz the line breaks are a bit wonky to get right on the wiki. thanks though! :P
+
+SQUIDDLES IN PARADISE
+i *think* the squiddles line here is "It's Skipper Plumbthroat!" with a gasp at the start, but getting a third pair of ears or so on it would probably be advisable!
+
+LET THE SQUIDDLES SLEEP (END THEME)
+this song gives me nightmares so i cant help with it lol
+
+FRIENDSHIP ANEURYSM
+at 0:07 *might* be something like "??? and friendship" but im having trouble figuring out what
+
+alright, thats everything ive got! sorry i couldnt be too much help with the squiddles album (i shared it with a couple extra pairs of ears and they agree that the lyrics are baffling), but i hope you have luck finding anywhere else, and id be happy to put what lyrics you do have online anyway
+
+thank you again!!
+
+~jade (nebula/florrie)
+
+
+<Nik Link 11/17/2020>
+
+Lyrics for Vol 7, The Wanderers, Vol 8, and Song of Skaia. Notes:
+
+MAYOR MAYNOT: I got very far into this one before just giving up and using Radiation's original lyrics (edited for readability and structure). I think he's wrong in some spots, but any guess as to what some of the more garbled gibberish is would be valid, and as the song maker who am I to go against it when I'd already given up in my version and just written [unintelligible]? And it's Mayor Maynot anyways, why not embrace the silliness? If you want my less wacky, less all-caps version (maybe adapting Toby's transcript of the more nonsense bits) then let me know.
+
+WHAT A DARING DREAM: The words are kinda flung together and phrases are panned hard to the left and right channels, making it very hard to transcribe the words as presented in the song, so I just pasted the original text instead. The last couple sentences are barely audible but after some audio manipulation can be heard. After the text starts to repeat it kinda descends into an unhearable mishmash under the increasing noise of the song (I think it starts going 'as the sopor seeps from your eyes' over and over at one point) so I just left 'What a daring dream...' as the only audible part. I tried very hard with the Morse code but I can't make heads or tails of it. Trying to isolate it and feed it through an audio Morse decoder proved fruitless. Quoting the song commentary: ' I did not have the patience to translate every single line of code in that sequence. I just used the same sample repeatedly, altered it a bit, and panned the two versions of it to each side of the mix.' so I believe it to be either looped gibberish or a looped random phrase from the text.
+
+CALAMITY: 'All engine running' is not a typo, apparently the person slightly misspoke.
+
+HOW DO I LIVE (D8 NIGHT VERSION): Not just a copy-paste, there's a coupla differences.
+
+SONG OF SKAIA: Two things. One: the original lyrics on the original bandcamp correctly differentiate between 'cre'ta' and 'creata' instead of defaulting to 'creata' (also where the intended translation is from). Secondly, it's '', NOT 'Ëa' like the lyrics says. I was looking it up because it sounded like a word that had to always be capitalized or something (I don't know a lick about LoTR) and ran into this mistake. I asked around with some people familiar with elvish and they backed it up. Boy I really hope someone got fired for that blunder. Also I'm using brackets for translations now, translations in lyrics aren't supposed to be a thing so I can do whatever I want (suggest changing Arisen Anew as well).
+
+BLACKEST HEART (WITH HONKS): I forgot this had lyrics in the Alterniabound version. (PS I'm kind of going off memory so there may be songs with vocals somewhere in Vol 8 that I missed but I doubt it). BOY I REALLY HOPE SOMEONE GOT FIRED FOR THAT BLUNDER. the fourth 'Miracles' is the word 'Miracles' being played like 5 times at once with random offsets so I just left it as 'Miracles' because fuck that.
+
+ALSO ATTACHED: Squiddles! You'll find the few bits that aren't complete by searching for more than one question mark. But I wanted to send it in anyways, so you know where the issues are. Plus several songs are all done anyways so why hold off.
+
+
+<Nik Link 11/19/2020>
+
+On a roll: everything from coloUrs & mayhem through Vol. 10! Well, I'm just lucky all the albums between Vol. 9 and 10 don't seem to have any lyrical content. As always, it's possible I'm missing songs with lyrical content, but I still doubt it. More notes:
+
+IRON INFIDEL: 'Samm Neiland wrote 'Iron Infidel' in what he calls "Old Trollish," which is derived from Norwegian, Swedish, Icelandic and other Nordic languages.' So basically we have to take his word for the translation. I found a comment of someone who says it sounds like childishly broken Norwegian, but that the lyrics seemed correct.
+
+BATTLE BROTOCOL: Only C&M lyrics track with no help from the album bonus materials. I think it's correct, got feedback from a couple people on it.
+
+BUSTING MAKES ME FEEL GOOD: I know the title of the track says busting but it really sounds more like bustin' to me.
+
+CREATA: So for the Latin Beatfox kind of mashed together different phrases of the Song of Skaia lyrics. And sometimes scrambled the words IN said phrases. I'm just going to accept the scrambled phrases as having the same intended translations as the originals in Song of Skaia, but other problems arise. Creata translates 'In vento cogitatio' as 'Thought in the wind' instead of 'Thought blows in the wind' and from what I can tell Beatfox is more correct on this one. But he also changed the translation of 'e somno somnia' (in Song of Skaia it's actually 'somnia e somno') to 'dreams awaken out of sleep' instead of 'dreams out of sleep' and I think in this case it's Hadley that's correct. There doesn't seem to be any 'awaken' in there in any form. SO I'm just going to 'take' Hadley's side on this one as the original lyrics writer (actually it was the vocalist that wrote the lyrics but you get the point, it's the original translation) on both conflicts.
+
+ASCEND: Pretty sure the 'wa' in 'Toki no hime wa' (the full line gets cut off) doesn't really mean anything, it's apparently particle that immediately follows the direct object of a sentence as well as some other esoteric subtleties I don't give a shit about. I'm just translating 'Toki no hime' as 'The princess of time'. Also the background vocals are just really not audible at all except a word here and there, I just recognize the same robot vocal sounds from Arisen Anew, so don't know if it really counts for lyrics?
+
+I also cleaned up and caught a few errors in songs that already had lyrics.
+
+ABSURDLY MINOR CORRECTION: In Midnight Crew Acapella, in the third verse, I left a comma at the end of one of the lines by accident. From my research, apparently you're not 'supposed' to have commas or periods at the end of lines in lyrics. Barely relevant, but if I don't bring it up it'll bug me forever!
+
+
+<Quasar Nebula 11/23/2020>
+
+thanks a bunch again :) here are my notes copying this data over!
+
+TENTACLES
+im pretty sure it's "bizznasty", not "crazy"! might be just "nasty" though
+i dont think we could say either way on "those"/"these" since the word isnt really pronounced; im opting for "those" arbitrarily
+
+.....okay thats all the notes, lol.
+
+is this the last of the lyric sheets? i wanted to say thank you again for all your work here!! its been of huge help, and im very excited to share your additions with everyone who visits the site :)
+
+~jade (nebula/florrie)
+
+
+<Nik Link 11/23/2020>
+
+I'm waiting until Hiveswap so that I could include any potential lyrics in the Act 2 OST (you never know). I have Grubbles/Beyond Canon lyrics done, and I'll give Squiddles another try, and I think that would be that (unless I missed a song somewhere)! Afterwards I was gonna compile feedback/issues, and then do some other stuff for a while, though I'm planning on doing unofficial album lyrics eventually.
+
+
+<Quasar Nebula 11/23/2020>
+
+got it! makes sense, thanks for letting me know :) good luck with squiddles -- let me know if you spot any fixes, since ive already got your current notes (with most of the ???'s intact) copied over!
+
+by the way, i took your feedback with the divided music/art contributors and tried implementing something like that -- does this look similar to how you were imagining? anything youd recommend different/in addition? im interested to hear!
+
+[divided-contributions.png]
+
+(note some artists, e.g. robert j! lake, show up in both lists -- though in different positions, since as with J!, the number of musical contributions is generally different from the number of art/flash contribs!)
+
+~jade (nebula/florrie)
+
+
+<Nik Link 11/23/2020>
+
+Yes, oh man that looks so much better! I guess I'll drop the issues/suggestions I have so far (I know it's kind of a lot):
+
+- I Don't Wanna Miss A Thing and Some Kind Of Alien are missing durations
+- Davesprite should be listed as referencing Hawkeye, Hawkeye is also missing from Unreleased Tracks
+- I'm fairly certain Sunsetter is a Hawkeye remix, but it's not listed as such on nsnd so that's pending until I get to argue about it
+- Nic Cage Romance should be listed as referencing How Do I Live
+- Don't think I agree with how you list 'Fear of the Heavens' as the Typheus noises. I guess personally I'd classify the Typheus noises as a track referencing Fear of the Heavens instead of it LITERALLY being Fear of the Heavens by Secret of Mana. Then the A6A6I4 version with the glitch effects as a remix of THAT.
+- Missing the Echidna noises from A6A6I5 ('Snake noises' by Toby Fox) and the Yaldabaoth noises from A6I5 (??? by probably Toby Fox?)
+- The Unreleased Homestuck tracks list should be purged of tracks that reference other tracks as opposed to being referenced BY official tracks (Arisen Anew and Cascade remasters)
+- Tracks that are only referenced by fandom music should be separated from the Unreleased Homestuck tracks list (Homestuck Title Screen, null, Skaian Shuffle, Strider Showdown, The Paradox Paradigm, White King
+- This hurts to contemplate but songs originating outside of Homestuck that are only referenced by fandom music should probably also be separated from that list (example: Supercalifragilisticexpialidocious)
+- Move unreleased Friendsim music to Pesterquest list? Pending Hiveswap Act 2 OST release, of course, I know they said the beekeeper music would be in there but who knows if they'll get Charun and female lawyer.
+- Order Tracks featured in Homestuck by story usage
+- This is probably a decision you made at some point not to include removed tracks, but maybe a 'Removed tracks' section in Unreleased would be useful. I mean, as it stands you have various Bolin tracks and null listed in Unreleased Homestuck tracks anyways. And we can't really claim a moral standard here while Nick Smalley's listed. I get not wanting to include them in their albums of provenance but grouping them in a cordoned off section would be useful.
+- I assume it gives you a massive headache to contemplate adding the individual volumes 1-4, but Aggrieve (Violin Redux) and Sburban Jungle (Brief Mix) demand freedom!
+- Don't wanna sound like an asshole but I'm not sure what those Kal-la-kal-la albums are doing in here. I mean there isn't even a single Homestuck track reference in either of them, so it just seems like a non-Homestuck project. You could mayyybe talk me into accepting Casual Sunday since it's an album by many different important music team members. But then why not start throwing Bowman's other works in there? Gabe Nezovic has a bandcamp... you see where I'm going with this.
+- Obviously a lotta fandom albums missing but I assume that's just manpower constraints
+
+
+<Quasar Nebula 11/25/2020>
+
+hey again!
+
+sorry for the slow reply, ive been a little busy with irl stuff before i could get to this. here now though, and thanks for the list, its much appreciated :) here are a few id like to specifically comment on! (others are mostly just small fixes; ill gettem checked out for sure, thank you!)
+
+"- Don't think I agree with how you list 'Fear of the Heavens' as the Typheus noises. I guess personally I'd classify the Typheus noises as a track referencing Fear of the Heavens instead of it LITERALLY being Fear of the Heavens by Secret of Mana. Then the A6A6I4 version with the glitch effects as a remix of THAT."
+ooh, good point. im in agreement here, will get it fixed.
+
+"- The Unreleased Homestuck tracks list should be purged of tracks that reference other tracks as opposed to being referenced BY official tracks (Arisen Anew and Cascade remasters)"
+kinda agreed, kinda not! i think im going to leave them there for now, but thank you for bringing this up. ive been discussing where to bring the wiki a lot lately, and ill be sure to be critical of their placement here. thanks!
+
+"- Tracks that are only referenced by fandom music should be separated from the Unreleased Homestuck tracks list [etc]"
+im not 100% decided on this, but ill definitely consider it - having the distinction would be nice for certain, but i also want to avoid making the album grouping too complex. ill think about it, thank you!
+
+"- Move unreleased Friendsim music to Pesterquest list? Pending Hiveswap Act 2 OST release, of course, I know they said the beekeeper music would be in there but who knows if they'll get Charun and female lawyer."
+yeah, in the update friendsim music gets its own chunk group, so this is already checked off! since that means the only tracks left in the list are ones featured in the webcomic proper, ill sort it per feature like you recommended - thanks. c:
+
+"[...] And we can't really claim a moral standard here while Nick Smalley's listed. [...]"
+just wanted to comment on this in particular: i was not aware of the context around nick smalley before your email. i spoke with a couple people about it and we came to the conclusion that removing nicks tracks altogether would be bad for archiving the intended structure and form of albums as a whole, and would not reduce any existing or future damage caused by him; he isnt getting any new supporting fans from his work on homestuck, and as far as we know, simply isnt online at all anywhere at all. still, leaving his music up without any comment did feel off. so i put together this note on his artist page:
+
+[nick-smalley.png]
+
+while i dont intend to run every single artist through a purity test or anything like that, this feels like a reasonable thing to do (a warning without tampering with the archive itself). i understand that "claiming a moral standard" at all is probably inviting #Problematics to a degree, but... the dude was a pedophile whose name is prevalent through much of the history of official homestuck albums. it feels like a no-brainer to at least attach a disclaimer on that.
+
+"- This is probably a decision you made at some point not to include removed tracks, but maybe a 'Removed tracks' section in Unreleased would be useful. [...]"
+under that lens, i remain unconvinced here; i dont know the context surrounding most of them, but i imagine the majority of these tracks were removed for good reason / intentionally breaking ties from particular artists/contributions? youre right that keeping them cordoned off makes it a little more understandable as an act of archival -- but i also have to ask myself whether these tracks should be given any attention at all, which is why youll note the bill bolin tracks do not have URLs attached. the wiki is only useful as an archive by virtue of its integratedness (flash pages link to featured tracks, referencers link to those referenced, etc); if we leave those removed tracks independent of and not depended on by other spaces on the site, there is barely reason to feature them at all. if we do integrate them like other tracks featured in flashes, we give tracks which were intentionally removed attention they probably shouldnt have.
+
+imo, the only responsible way to archive removed tracks is to educate readers of the context around them; others already decided they should not be given value as works of art themselves by virtue of removing them, and im inclined to defer to the decision of the people who used to be in charge of the bandcamp and webcomic here. so, i probably wouldnt include URLs for them either, just as i dont for bill bolins tracks. and i dont think im personally justified in telling those stories, explaining the context; i am entirely unaware of the majority of the history there (and certainly wasnt around while it was going on), after all.
+
+"- I assume it gives you a massive headache to contemplate adding the individual volumes 1-4, but Aggrieve (Violin Redux) and Sburban Jungle (Brief Mix) demand freedom!"
+yeah i agree! it certainly isnt a technical issue to bring back the old albums, but ive held the firm stance that "Homestuck Vol. 1-4" is the intended final release for these four, and returning the old albums (especially with their bill bolin tracks intact) isnt something im interested in doing. i do feel other tracks which just happened to be cut by virtue of not quite fitting in the final release though! i cant guarantee it 100%, but ill see about putting them in an extra space at the end of the vol 1-4 listing.
+
+"- Don't wanna sound like an asshole but I'm not sure what those Kal-la-kal-la albums are doing in here. I mean there isn't even a single Homestuck track reference in either of them, so it just seems like a non-Homestuck project. [...]"
+no worries for asking about this, you dont come off assholish! this is essentially something ive been thinking about for a while. i wrote a bit of an infodump on this subject which i could send if you are curious, but the gist is: im intentionally expanding the scope of the wiki to include albums which are not directly homestuck-related. im doing this for the sake of better celebrating music from and within the sphere around homestuck; the intent is to not just act as an archive of old music (and the rare explicitly homestuck album dropping in various places on bandcamp), but to encourage listeners to explore and support new music as well. hence, with permission(*), artists who have been notably involved with or whose music originated from the homestuck scene will find their albums featured on the site. listeners will hopefully discover and explore plenty of music they might never have heard of otherwise; and in collecting it all in one place, we celebrate, share, and support not just the closed boundary of music explicitly tied to homestuck, but the creations and futures of those who found an early home in homestuck.
+
+(*) to be transparent, ive shared a few albums on the wiki without looking for the permission of the artists behind them. im going to go back and ask about the ones ive already shared (removing their albums if they prefer), and be sure to ask for future permission before bringing over new ones.
+
+PS: if youre concerned about the homepage already being packed largely to the brim, know that im already more than aware of that - it has been redesigned in the update to be more usable in general, so expanding it as time goes on shouldnt be an issue.
+
+"- Obviously a lotta fandom albums missing but I assume that's just manpower constraints"
+there actually is no manpower constraint, really! the wiki is my main project and i enjoy working on it; bringing over an album itself actually takes a pretty minimal amount of effort (in contrast to, say, making grander design choices about the wiki as a whole). im going to try to communicate this better in the update, but whether an album is added or not today is largely based on whether there is interest in it: a request for an album i havent heard of will almost always see it researched and archived.
+
+that said, im definitely already aware of a few UMSPAF albums ive missed; thanks to giant commentary booklets which have to be transcribed by hand, these take a bit more work, but theyll find their place on the wiki soon too.
+
+if you know of any other releases ive missed (and there certainly are some out there) which youd like to see archived, drop the links! id be happy to check them out. at the moment im finalizing this update (working on some foundational changes, mainly), so i couldnt guarantee any more albums coming with it, but this certainly isnt going to be the last release for the site; with time, they too will find a home here, once i know where to find them c:
+
+thanks for all the feedback, and feel free to reply with any questions or additional notes! the wiki is going through some fairly big changes, but im an open book; im happy to discuss and i really value questions and concerns like this. thank you! :)
+
+~jade (nebula/florrie)
+
+
+<Niklink 11/27/2020>
+
+It's been a long journey. Thankfully, no lyrics in Hiveswap Act 2, so here's the last batch of lyrics. Notes:
+
+STRIDE: I forgot this had, uh, lyrics. This is probably the song that toes the line for what I'd defined as lyrics the most. Is 'ey yo' even lyrics?? It's kind of just an exclamation, isn't it??? There's not really a huge incentive to add this song but I did it for the sake of completeness.
+
+THE GRUBBLES: Yes, these are real. The official Youtube channel posted these as 'lyrics' for Broom Temperature and Frondly Warning. The text is in New Alternian (I guess technically the 'New' Alternian script precedes the classic one in usage but it's just the new text they introduced for Hiveswap) and can be translated. In fact the vocalizations in the songs match the number of syllables in the lyrics, so you can... KIND OF sing along.
+
+BEYOND CANON: Official lyrics were pretty good, but there were a couple mistakes here and there.
+
+And since I'm resubmitting Squiddles, here's everything I changed, so you can tell what the difference is:
+
+TENTACLES: Agree with you on 'nasty', settled on 'these tentacles' throughout the song, changed the third line of the chorus from 'Those tentacles breakdancing' to 'Tentacles breakdancing' (I think what's happening is that the background vocals say 'tentacles' offset to the lead vocals for some godforsaken reason before harmonizing on 'breakdancing' so it sounds like there's an extra word, I THINK).
+
+SQUIDDLES IN PARADISE: Settled on 'Bye Skipper Plumbthroat!' as the most likely because I can't think of anything else it could be.
+
+LET THE SQUIDDLES SLEEP: Pretty sure that line about 'going out to sea' is correct even though it sounds weird and dumb (that 'and' in the line is tripping me up but it doesn't seem possible for it to be anything else). I just genuinely have no idea what that last Squiddle line before the main section ends is saying at all. I had 'Yeah yeah, kill the world' from someone else's lyrics but I'm very confident that is just not correct. In any case it's 'Yeah' and then four or five syllables, but it doesn't sound like any words I know!!! So I'm giving up. [Unintelligible] it is. At the end, I put the first Horrorterror line as 'Let's be Tangle, Tangle Buddies', again as I think the highest probability guess.
+
+FRIENDSHIP ANEURYSM: Quite certain 'serious' was the missing word, just by process of eliminating every single two syllable word in the English language. I think the 's' at the end got slurred off or something. Or maybe the Squiddles are having Syrian friendship. I mean, we don't know what sea they swim in. Why not the Mediterranean?
+
+Also included: I went through the original Bandcamp on the Wayback Machine and found that some albums had little snippets of text on their pages originally. I feel like there's value to them as part of the original album presentation. Obviously I left out the ones that are like 'this album includes seven bonus tracks' and whatnot.
+
+
+As for your previous reply, I'd like to touch on the removed tracks thing. Just for clarity, here's a rundown of every track that has been removed. You probably know most of this stuff but I just want to be on the same page!
+
+THE BOLIN AFFAIR: This one's pretty infamous. Hussie made the Rose and Dave: Shut up & jam flash basically just to throw in like five Beatdown remixes that Bolin had just posted to the music team forum. Bolin FLIPPED OUT because Andrew had just released tracks of his that he considered unfinished (I'm not certain how clearly they were labeled as unfinished or not), and then proceeded to basically throw a huge tantrum (he was apparently prone to these) and left the team. Here's an archive. Now, this makes Bill Bolin an asshole. But I don't think being an asshole means explaining what his work was to be wrong. This one's particularly important because all of his stuff had actually been featured IN Homestuck proper, before the music had to be swapped out. So it's kind of part of Homestuck history too. There's a caveat though, in that it has also come to light that Bolin was transphobic to Kalibration in private conversation. In my opinion, way worse in practice than what led to his departure. But that doesn't seem to have been considered at all when he left the team, it's just something that came to public light much later.
+
+VOL. 5 & SOLUSLUNES: It turned out his track 'Endless Heart' was a remix of 'Heart of the Creator' by a guy named Draggor. Soluslunes independently decided it was for the best to just remove all his music and leave the team. Seems pretty clear cut, however there's actually a big grey area. We know that the reason Vol. 5 is... the way that it is, is because Hussie asked everyone to just dump everything they had to make a MEGA ALBUM. It's certainly probable that an unrelated project slipped in there! It's much less probable that Soluslunes never noticed he uploaded a track that was not intended for Homestuck, but a momentary lapse of forgetfulness is still plausible, or maybe it was just something he had been kicking around for years and forgot about, or whatever. The point is, we have no way of knowing if Soluslunes was an intentional plagiarist or not. Especially considering he seems to have been quite capable of making original music judging by his other tracks. One of his tracks was even added to Rose & Dave: Shut up and jam to replace the Bolin tracks. Was that swf cursed or what?
+
+VOL. 8 AND 'NULL': This one just kind of seems like it was a little ARG-style joke from Toby? I don't think it was ever clarified. But it definitely sounds like a little snippet from possibly Penumbra Phantasm. Completely harmless, overall.
+
+COLOURS & MAYHEM PLAGIARISM: The original submissions for Indigo Archer (Mechani% of the Void) and Purple Tyrant (An Invincible Demon) by Arnav "Aaron" Mithal were actually literally just 'Switch' and 'A Functioning God' from the Frozen Synapse OST. Pretty clear-cut.
+
+TURNABOUT INTERLUDE: Seijen made comments defending neonazi cartoonist Stonetoss. So, yep. He's still on various unofficial albums predating the incident. And in artist commentary thanking him for his help making music. And has a soundcloud. On which he has posted new material.
+
+And of course Sburban Jungle (Brief Mix) and Aggrieve (Violin Redux) were left out of Vol. 1-4 for unknown reasons. I know Brief Mix is just a shorter version of the full song, but... still.
+
+What do all these removals have in common? That they're all different. Both in terms of morality and in terms of importance to Homestuck. The problem is, at least personally, I can't claim any moral standard here. From my interactions with them, I believe many people throughout the What Pumpkin umbrella are anything from huge dicks to actively bad people, not just in general but towards me in particular. And I continue to preserve, promote, and implicitly endorse their work. From my point of view that's far worse in terms of ultimate ethical outcome than mentioning some tracks that were removed in the depths of a music database that few people thoroughly peruse. And again, we're already noting someone like Smalley (hopefully the worst person in this thing). So I say, throw 'em in. Well maybe not the C&M tracks, because that would just be pointless.
+
+
+As for the Vol. 1-4 duplication issue, you are going to have to find a solution for the problem anyways! After listening to the Act 2 OST, I noticed that 'Shell Game' and 'Old Secret' are just 'SERVICE CAR' and (duh) 'Old Secret' from the Hiveswap Friendsim album. This kind of breaks the way the wiki is set up! It's not that accurate to say one track is 'referencing' the other, because as far as I can tell they are the SAME TRACKS, EXACTLY, but they went as far as changing one of the names, which is incredibly annoying. I think this sort of situation may occur in unofficial albums as well (stuff being in more than one place). May I suggest a new field, something like 'also known as', that would allow for these tracks to show a link to wherever else they were published? It seems like probably the easiest solution. You'd have to paste the same artist commentary across several songs if it exists, but that seems trivial.
+
+The bigger problem I think would be when duplicated tracks are referenced. But I think you could default to the combined Vol. 1-4 for those tracks, and for everything else you could pick which instance of the track is most 'appropriate'. Like on Friendsim Volume 14's page you can say that it features SERVICE CAR and on Hiveswap Act 2's page you can say it features Shell Game, and if someone visits that song page they'll see the other instance on the other album. I think it could work. It would also inflate some people's 'contributions' count. But that wouldn't even be necessarily inaccurate, since the same thing contributed to several albums still kind of is a discrete contribution. I know ultimately the purpose of that count is 'how many tracks have they worked on', but it just seems like the least fucky way to go about it? Again, this would also allow for separate Vol. 1-4 to be added, which to me is important because they were obviously pivotal in kicking off the entire Homestuck Music Thing. Also Nightlife (Extended) by Bolin was on both Volume 2 and Drawing Dead
+
+
+F I N A L L Y I don't know if it's been brought to your attention that the reupload of One Year Older to Jit's bandcamp actually as a whole new song in it? You have to download the album (it's free) to get it, it's called 'it's good to see you again' and has no unique track art. I think I haven't mentioned it to you, I may have forgotten I've talked too much music shit with too many people too recently ok bye
+
+
+<Quasar Nebula 12/10/2020>
+
+hi again!
+
+much apologies for the delay in reply!! ive been pretty busy in meatspace, so i havent had a lot of time to focus on the update - ive been working on code and discussing/implementing your feedback, but the email itself slipped by :P
+
+thank you for the rundown on the removed tracks and the details behind their artists. im choosing to leave the existing albums as is (except for vol. 1-4 -- ill get to that!), because those albums were (i believe?) modified very shortly after release - lending more confidence to considering the modified version the "canonical" one, even if its to the contrary of the original structure. however, the independent albums for volumes 1-4 did exist for rather a while before release, and youre right that they were pivotal in the beginning of the homestuck music discography! so, in implementing your "also known as" field (since it was already necessary for act 2, like you said), i divided the compilation release into four separate albums - retaining the compilation release too. have a look!
+
+[Screenshot_2020-12-07 Harleboss(1).png]
+[Screenshot_2020-12-07 Harleboss.png]
+
+of course, similar is done for the re-released tracks in Hiveswap Act 2 OST. i considered everything else in the "duplicate tracks are referenced" paragraph you sent, too -- thank you for the insight there! c:
+
+i did not know about it's good to see you again! i had already purchased the album from the homestuck bandcamp when it was still around, and i didnt think to check the new download. thank you for letting me know!!
+
+~~ lyric notes ~~
+
+STRIDE: lol, true! good for completeness, and... there are similar cases where you could argue if we kept those, we should keep this, but... its literally just a sample used as a sound effect. im inclined to leave it off, this one time :P
+
+THE GRUBBLES: not sure how i missed these in the past!! still, youre absolutely right that they should be included -- and i never realized the lyrics actually go along with the "vocals"; thats neat to hear, and im sure itll be a pleasant surprise to anyone spotting lyrics on the wiki. :)
+
+SQUIDDLES (ALBUM): thanks so much for the notes, and the lyric analysis!! it is simultaneously invaluable and hilarious. actually, i was wondering if youd be alright with me sharing a transcript of your lyrics commentary, just as a bonus attachment in the changelog for the update? its been a joy to read and id love to share it there for anyone curious, if thats all cool by you :3
+
+FOUR KIDS: im leaving the lyrics here in lowercase (as well as in Squiddle Song), because i feel those are intentional stylistic and "signature" choices by the artist(s) which dont actually get in the way of readability; i did add the extra chorus lines at the end though!
+
+extra thanks for the bonus flavor text!! those will totally find a spot on their pages. im always glad to bring any little polishes like that which were lost over time back, so thank you for noticing and collecting them all! :D
+
+the site will be releasing formally on the twelfth (saturday!), but i have a preliminary release of the build already pushed to the wikis new home, https://hsmusic.wiki/. i figured id share the link since been such a help with lyrics and feedback over development! any feedback is absolutely welcome - i probably wont get to any major changes until an update after release, but suggestions of any scale are encouraged all the same. just dont share the link around until the twelfth!
+
+and thank you again for all the help! its been tremendously appreciated, and the lyrics on the wiki wouldnt be nearly so polished if not for all the work youve gone to putting this together and sharing it here. thank you! :)
+
+~jade (nebula)
+
+
+<Nik Link 2020/12/11>
+
+:o Brilliant stuff, I love it!
+
+I have zero issues with sharing the lyrics commentary or really just anything I've said in our correspondence, have at it. Speaking of corresponding, I've been talking to foreverFlummoxed about music reference stuff to pass along- I want to make sure the music wiki and https://homestuck.net/music/references.html stay in sync over time with reference stuff to prevent some ungodly logistical nightmare from rearing its head. So, a couple of minor tweaks:
+
+-Single Female Lawyer references the unreleased Alex Rosetti song 'Seer of Same-Color Scalemate Combos'. I haven't tracked it down to verify it myself but it's such an obscure and unimportant claim that it has to be true.
+
+-THE MEGALOVANIA CLEANUP: There was some naughtiness about using 'Megalovania' and 'MeGaLoVania' interchangeably. I've defaulted to 'MeGaLoVania'. However the track 'Ghost Hole' on Diverging Delicacies says 'Megalovania' as a reference on its bandcamp track page, so I have set it to the Undertale Megalovania. The FriendSymphony track 'Pop Pills Get Girls' also lists the reference as 'Megalovania' with no Homestuck MeGaLoVania uppercase specifiers, although FriendSymphony isn't on the wiki yet.
+
+Also I went around and kicked the tires on the new wiki site and found some mistakes, mainly related to the separated Vol. 1-4:
+
+-Let's All Rock the Heist from Vol. 7 has a missing line break in the lyrics
+
+-Vol. 1 is missing Sburban Jungle (Brief Mix), should be track 4 after Showtime (Original Mix)
+
+-Vol. 3 is missing Rediscover Fusion Remix by Bill Bolin, should be after Rediscover Fusion
+
+-Midnight Crew: Drawing Dead is missing Nightlife (Extended), should be the final track (was not a bonus track) (it's cool that you specify bonus tracks)
+
+Finally, track arts are missing. Three categories: obviously the missing songs, then there's the Bill Bolin Vol. 1-4 songs that have no track art, and last but not least, there are a variety of songs in the original Vols. 1-4 whose track arts were changed in the combined version. These are the FreshJamz tracks- they had to retake the track art screenshots for the rerelease because of course Bill Bolin's songs were listed in the original FreshJamz playlist! Also Ohgodwhat & Ohgodwhat Remix got their track arts changed. I've attached all the relevant track arts, as they were in their original releases. Note that Nightlife has a different track art on Vol. 2 and MC:DD, it's specified in the filename. If I missed anything let me know.
+
+Also how do you feel about collecting the custom banners/backgrounds/text colors used to match the then-latest albums on the bandcamp page? I don't think I can quite get them all through the Wayback Machine, and not every album got this treatment, but I've included some screenshots in the attachments as well, as you can see sometimes it involves original art and overall it just looks neato. If this is something you're interested in, also let me know. Thanks again!
+
+
+<Nik Link 12/11/2020>
+
+Quick extra notes:
+
+-GameGrl (Original 1993 Mix): The last paragraph should read 'subscribe to the exclusive girls-only GameGrl Magazine'. The version on the wiki is missing the word 'exclusive'.
+
+-exclusion zone: Should be 'You sit up there all day long and do nothing but come down and make tea.' instead of 'You sit up there all day long and do nothing. Except come down and make tea.', there's also some formatting messiness going on with that line.
+
+-Four Kids (and a Game They Played Together): Missing the whole end of the song in the lyrics. After where the version of the lyrics on the wiki stops, it goes on with:
+
+I'm
+Pulled back
+Once again
+And I told myself, told myself, told myself
+I wouldn't be
+On this adventure
+
+But I'm
+Haunted by
+All of these memories
+That I have of four kids
+And a game they played together
+
+It's been a little bit since the last time
+
+Also the Grubbles tracks are missing the lyrics, though you probably just haven't gotten around to those. Have you considered crediting James directly instead of The Grubbels? I know that's how the album is officially credited, but it's kinda weird to go to James' listing and not being able to see that he did that entire album.
+
+
+<Quasar Nebula 12/11/2020>
+
+hia!
+
+right, so - a few of the issues with data i said id added being missing on the site is... i made a build of the site, but forgot to re-enable building the track pages alongside it <.< so all the data is there, it just hasnt been built and pushed yet!
+
+thank you so much for all the track art info - ive gotten all that added, its a huge help. c: and thanks for catching the ones id missed in vols 1-4 as well, oops!!
+
+thanks for all the other misc notes - ive implemented those too. the only thing i skipped is changing the reference in Ghost Hole from MeGaLoVania (vol 6) to MEGALOVANIA (undertale), because i feel they more likely intended a ref to the vol 6 release, and just didnt bother to take note of that in the reference data; it is the "vriska-ier" track after all, which makes sense for the subject matter of Ghost Hole. you could argue that the majority of these ought to reference Megalovania (halloween hack), since it is the musical origin for most references to megalo, but for now im going to defer to the vol 6 release in cases where it makes contextual "storytelling" sense. :P
+
+ooh, id love to play with that idea of theming pages on the site similarly to the original release styles! it obviously wouldnt be a one-to-one pairing, but it would be a really neat way to incorporate the themes in. still, i think id implement it as a switch on the site, rather than as the default - keeping a common style across the site is pretty crucial for those just getting used to its layout, after all. i put a note on the issue tracker to revisit the idea and brainstorm it more in the future, and while i might not get to it for a bit, the resources would certainly come in handy whenever i do. c:
+
+thanks again for all the feedback! im wrapping things up today for tomorrows release, so the data error notes (like the missing tracks and art!) are especially useful. thank you!
+
+~jade (nebula)
