@@ -1,5 +1,7 @@
 *.small.jpg
 *.medium.jpg
+*.large.jpg
+*.semihuge.jpg
 *.huge.jpg
 thumbnail-cache.json
 .DS_Store
