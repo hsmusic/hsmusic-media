@@ -2,7 +2,7 @@ name: Archive Thumbnails Artifact
 
 on:
   push:
-    branches: [ "release" "staging" "preview" ]
+    branches: [release, staging, preview]
 
   workflow_dispatch: null
 
