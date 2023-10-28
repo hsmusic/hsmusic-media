@@ -17,6 +17,13 @@ jobs:
           packages: imagemagick
           version: 1.0
 
+      - name: Checkout corresponding canonical code repo
+        uses: actions/checkout@v4
+        with:
+          repository: hsmusic/hsmusic-wiki
+          ref: ${{ github.ref_name }}
+          path: code
+
       - name: Checkout corresponding canonical data repo
         uses: actions/checkout@v4
         with:
@@ -30,6 +37,10 @@ jobs:
           repository: hsmusic/hsmusic-media
           ref: ${{ github.ref }}
           path: media
+
+      - name: Install code repository
+        working-directory: ./code
+        run: npm ci
 
       - name: Generate thumbnails
         run: |
