@@ -1,0 +1,141 @@
+# Sburbmon OST file dates from Dropbox, compiled by QN.
+# This file is sorted by date modified.
+#
+# Dates are from the dropbox web UI as of 5/9/2024; it's not confirmed
+# if timezone adjustment is needed, but if so, our system timezone
+# is currently UTC-3.
+
+URL: https://www.dropbox.com/s/4p0wona22dd9sta/
+File: Sburbmon OST - 14 - Midnight Crew Casino [Under the Hat].mp3
+Date Modified: 1/10/2018, 1:51 AM
+Date Uploaded: 4/4/2018, 10:10 PM
+---
+URL: https://www.dropbox.com/s/t61ha6wma3bkdcc/
+File: Sburbmon OST - 15 - Felt Hideout [The Broken Clock].mp3
+Date Modified: 1/10/2018, 1:55 AM
+Date Uploaded: 4/4/2018, 10:11 PM
+---
+URL: https://www.dropbox.com/s/16hcy3srvos37g5/
+File: Sburbmon OST - 6 - Land of Wind and Shade [Doctor].mp3
+Date Modified: 1/10/2018, 1:59 AM
+Date Uploaded: 4/4/2018, 10:10 PM
+---
+URL: https://www.dropbox.com/s/uh9ubtwp3i944y4/
+File: Sburbmon OST - 12 - Land of Tombs and Krypton [Candles and Clockwork (Alpha version)].mp3
+Date Modified: 1/10/2018, 2:08 AM
+Date Uploaded: 4/4/2018, 10:11 PM
+---
+URL: https://www.dropbox.com/s/e9ti7hq28au5wj2/
+File: Sburbmon OST - 11 - Pony Ride [Pony Chorale].mp3
+Date Modified: 1/10/2018, 2:10 AM
+Date Uploaded: 4/4/2018, 10:10 PM
+---
+URL: https://www.dropbox.com/s/z8t5ac4u98h8buk/
+File: Sburbmon OST - 5 - Forested Area [Crystalanthemums].mp3
+Date Modified: 1/10/2018, 2:14 AM
+Date Uploaded: 4/4/2018, 10:10 PM
+---
+URL: https://www.dropbox.com/s/xi1ducm2erxsqrv/
+File: Sburbmon OST - 7 - Land of Caves and Silence [Ruins (With Strings)].mp3
+Date Modified: 1/10/2018, 2:19 AM
+Date Uploaded: 4/4/2018, 10:11 PM
+---
+URL: https://www.dropbox.com/s/n090bgwervcm3o7/
+File: Sburbmon OST - 27 - Route Theme 2 [Explore].mp3
+Date Modified: 1/10/2018, 2:24 AM
+Date Uploaded: 9/18/2019, 4:17 PM
+---
+URL: https://www.dropbox.com/s/e0kul0xa3zcezpn/
+File: Sburbmon OST - 29 - Route Theme 4 [Friendship is Paramount].mp3
+Date Modified: 1/10/2018, 2:28 AM
+Date Uploaded: 9/18/2019, 4:17 PM
+---
+URL: https://www.dropbox.com/s/5qe4tg6q9c9wtbu/
+File: Sburbmon OST - 23 - Denizen Strife [Dance of Thorns].mp3
+Date Modified: 1/10/2018, 5:09 AM
+Date Uploaded: 9/18/2019, 4:17 PM
+---
+URL: https://www.dropbox.com/s/hwu54yicpgeimum/
+File: Sburbmon OST - 21 - Wild Battle [Showtime].mp3
+Date Modified: 1/10/2018, 5:15 AM
+Date Uploaded: 9/18/2019, 4:17 PM
+---
+URL: https://www.dropbox.com/s/9gexen0muvnx2az/
+File: Sburbmon OST - 2 - Maple Valley [Frog Forager].mp3
+Date Modified: 1/10/2018, 5:19 AM
+Date Uploaded: 4/4/2018, 10:10 PM
+---
+URL: https://www.dropbox.com/s/wxz6iq7yz45pil9/
+File: Sburbmon OST - 4 - SburbMart [Elevatorstuck].mp3
+Date Modified: 1/10/2018, 5:23 AM
+Date Uploaded: 4/4/2018, 10:11 PM
+---
+URL: https://www.dropbox.com/s/28tmrevyh6xj4jg/
+File: Sburbmon OST - 10 - Rap Battle! [Anbroids V1.0].mp3
+Date Modified: 1/10/2018, 5:26 AM
+Date Uploaded: 4/4/2018, 10:11 PM
+---
+URL: https://www.dropbox.com/s/6jh51l7v4ifgbaz/
+File: Sburbmon OST - 17 - Surfing [Keepers].mp3
+Date Modified: 1/10/2018, 5:31 AM
+Date Uploaded: 4/4/2018, 10:11 PM
+---
+URL: https://www.dropbox.com/s/ut5nt963skvj25r/
+File: Sburbmon OST - 16 - Land of Frost and Frogs [Courser].mp3
+Date Modified: 1/10/2018, 5:34 AM
+Date Uploaded: 4/4/2018, 10:10 PM
+---
+URL: https://www.dropbox.com/s/95v07uigfai0so1/
+File: Sburbmon OST - 8 - Land of Light and Rain [Endless Climb].mp3
+Date Modified: 1/10/2018, 5:37 AM
+Date Uploaded: 4/4/2018, 10:10 PM
+---
+URL: https://www.dropbox.com/s/0lb6y1vuitx28ie/
+File: Sburbmon OST - 13 - Derse [Core of Darkness].mp3
+Date Modified: 1/10/2018, 5:42 AM
+Date Uploaded: 4/4/2018, 10:11 PM
+---
+URL: https://www.dropbox.com/s/i97000k6d0cak3f/
+File: Sburbmon OST - 9 - Land of Heat and Clockwork [Atomyk Ebonpyre].mp3
+Date Modified: 1/10/2018, 5:44 AM
+Date Uploaded: 4/4/2018, 10:10 PM
+---
+URL: https://www.dropbox.com/s/jvnbrxguy11nrb1/
+File: Sburbmon OST - 3 - The Battlefield [Skies of Skaia].mp3
+Date Modified: 1/10/2018, 5:57 AM
+Date Uploaded: 4/4/2018, 10:11 PM
+---
+URL: https://www.dropbox.com/s/i5xhuvuctr24l23/
+File: Sburbmon OST - 1 - Title Screen [Sburban Jungle].mp3
+Date Modified: 1/20/2018, 2:03 AM
+Date Uploaded: 4/4/2018, 10:10 PM
+---
+URL: https://www.dropbox.com/s/uolro2pjm70c243/
+File: Sburbmon OST - 18 - Prospit [Center of Brilliance].mp3
+Date Modified: 2/15/2018, 9:13 AM
+Date Uploaded: 4/7/2018, 8:49 PM
+---
+URL: https://www.dropbox.com/s/q6fyiqhmc6rnuf1/
+File: Sburbmon OST - 28 - Route Theme 3 [Moonsetter].mp3
+Date Modified: 2/15/2018, 9:28 AM
+Date Uploaded: 9/18/2019, 4:17 PM
+---
+URL: https://www.dropbox.com/s/vqz2p4rkohdsnjn/
+File: Sburbmon OST - 24 - A Rare Encounter [Aggrieve].mp3
+Date Modified: 4/27/2019, 12:06 AM
+Date Uploaded: 9/18/2019, 4:17 PM
+---
+URL: https://www.dropbox.com/s/c2z6yejkdttyg2d/
+File: Sburbmon OST - 26 - Route Theme 1 [Carefree Victory].mp3
+Date Modified: 9/18/2019, 3:35 PM
+Date Uploaded: null
+---
+URL: https://www.dropbox.com/s/1knt1awm5gh7lwx/
+File: Sburbmon OST - 19 - Skaianet [Skaianet].mp3
+Date Modified: 9/18/2019, 3:52 PM
+Date Uploaded: 9/18/2019, 4:17 PM
+---
+URL: https://www.dropbox.com/s/m0jsaqrdk8oawev/
+File: Sburbmon OST - 22 - Trainer Strife [Fiduspawn, Go!].mp3
+Date Modified: 10/11/2019, 1:16 AM
+Date Uploaded: null
