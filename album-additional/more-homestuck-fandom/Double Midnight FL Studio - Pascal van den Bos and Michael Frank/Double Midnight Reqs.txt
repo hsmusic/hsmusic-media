@@ -1,0 +1,14 @@
+Needed Soundfonts:
+-Ethan Winer Glockenspiel
+-jd-rockkit.sf2
+
+VST's Needed
+-Sytrus
+-Fruity Slicer
+-David M. Farler NES VST Pack (Pulse)
+-Fruity Soundfont Player
+
+Samples Needed
+-crash.mp3 (Included)
+-DL_DrillNB.zgr (Included)
+-Double Midnight vocals.mp3 (Included)
