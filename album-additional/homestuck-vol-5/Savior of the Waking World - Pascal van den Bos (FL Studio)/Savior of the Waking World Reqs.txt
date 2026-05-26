@@ -1,0 +1,16 @@
+Needed Soundfonts:
+-steinway_concert_piano.sf2
+-[SF2] Ensemble Aahs LC (32,333KB).sf2
+-Squidfont Orchestral
+
+VST's Needed
+-Edirol Orchestral
+-dBlue Crusher
+-David M. Farler NES VST Pack
+-Fruity Soundfont Player
+
+Samples Needed
+-41 Doctor (Original Loop).mp3
+-Chia vinyl crackle sample 12.wav (Included)
+-HS Wind.mp3 (Included)
+-sotww opening.wav (Included)

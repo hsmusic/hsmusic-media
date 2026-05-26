@@ -1,0 +1,12 @@
+VST's Needed
+-4Front Piano
+-DVS Saxophone
+-DSK BassZ
+-David M. Farler NES VST Pack (Pulse)
+
+Samples Needed
+-CHR_Heaven_C6.wav (Included)
+-LP_Funk_Off_120bpm.ogg (Included)
+-LP_SystemFunk_90bpm.ogg (Included)
+-LP_The_World_Awaits01_120bpm.ogg (Included)
+-LP_Tronic1_120bpm.ogg (Included)

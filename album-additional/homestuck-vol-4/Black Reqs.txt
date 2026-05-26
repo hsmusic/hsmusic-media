@@ -1,0 +1,16 @@
+Needed Soundfonts:
+-052 Florestan Ahh Choir
+-GoldDrums
+-Pretes Thumbs
+
+VST's Needed
+-4Front Piano
+-DVS Saxophone
+-David M. Farler NES VST Pack (Pulse & Noise)
+-Fruity Soundfont Player
+
+Samples Needed
+-LP_SystemFunk_90bpm.ogg (Included)
+-LP_Tronic1_120bpm.ogg (Included)
+-Make Her a Member of the Midnight Crew high.mp3 (Included)
+-Make Her a Member of the Midnight Crew.mp3 (Included)

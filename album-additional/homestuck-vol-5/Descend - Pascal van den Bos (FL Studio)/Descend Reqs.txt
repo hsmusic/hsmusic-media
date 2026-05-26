@@ -1,0 +1,22 @@
+Needed Soundfonts:
+-steinway_concert_piano
+-052 Florestan Ahh Choir
+-Squidfont Orchestral
+-GoldDrums
+-Secret Of Mana
+-Ethan Winer Glockenspiel
+-Pretes Thumbs
+
+VST's Needed
+-Edirol Orchestral
+-DVS Sax
+-dBlue Glitch
+-David M. Farler NES VST Pack
+-ymVST
+-Fruity Soundfont Player
+
+Samples Needed
+-12 Upward Movement (Dave Owns).mp3
+-DL_AfterKill.wav (Included)
+-HS Wind.mp3 (Included)
+-Lead107.wav (Included)
