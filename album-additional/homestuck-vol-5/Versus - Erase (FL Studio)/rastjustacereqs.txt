@@ -1,0 +1,7 @@
+uses FL 2026 (yeah i know sorry)
+
+VSTs: SFLT by ash taylor https://estrobiologist.gumroad.com/l/sflt (i use sflt because i use modern versions of fl since im too lazy to backport to older stuff)
+
+soundfonts: Secret Of Mana.sf2
+
+(if anything doesn't load its most likely not important to the remake)

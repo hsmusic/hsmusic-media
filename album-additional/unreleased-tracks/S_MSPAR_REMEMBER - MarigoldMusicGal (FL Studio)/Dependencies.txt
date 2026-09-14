@@ -1,0 +1,5 @@
+platform: fl studio 12 (other versions may not be as accurate but it doesn't matter)
+
+soundfonts: SGM V2.01, THinst, Ultimate Guitar Kit (v2), jd_rockkit
+
+VSTs: Revalver HPse, Shreddage Presets Power Metal
