@@ -1,0 +1,12 @@
+MSPAR Remember FLP by funnyusername
+
+Requirements - Soundfonts:
+SGM-v2.01.sf2
+jd_rockkit1.sf2
+THInst.sf2
+glockenspiel.sf2 (Ethan's Glock)
+ultimate_guitar_kit_2.sf2
+
+Plugins:
+ReValver HPSE
+Bertom_PhantomCentre2 (Not actually part of the song, just used to hear things better when making the FLP.)
